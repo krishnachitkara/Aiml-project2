@@ -1,0 +1,4 @@
+Dataset Links:
+
+Kaggle link:https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package
+GitHub link:https://github.com/krishnachitkara/Aiml-project2/blob/main/weatherAUS.csv
